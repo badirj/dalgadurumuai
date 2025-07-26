@@ -1,0 +1,4 @@
+Program performance: 87.49490974463488 frames per second.
+[Wave #1] ID: 42, Birth: 219, Death: 308Max Displacement: 26, Max Mass: 1239
+[Wave #2] ID: 366, Birth: 966, Death: 1181Max Displacement: 12, Max Mass: 763
+[Wave #3] ID: 896, Birth: 1325, Death: 1382Max Displacement: 12, Max Mass: 3338
