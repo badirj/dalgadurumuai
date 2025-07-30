@@ -1,0 +1,23 @@
+# Flask Ayarları
+SECRET_KEY=your-secret-key-here-change-this
+DEBUG=False
+
+# Veritabanı Ayarları
+DATABASE_URL=postgresql://username:password@localhost/wave_analyzer
+
+# Sunucu Ayarları
+HOST=0.0.0.0
+PORT=5000
+
+# Analiz Ayarları
+ANALYSIS_INTERVAL=5
+SAVE_FRAMES=True
+FRAMES_DIR=saved_frames
+
+# YOLO Model Ayarları
+YOLO_MODEL_PATH=
+YOLO_CONFIDENCE_THRESHOLD=0.5
+
+# ESP32-CAM Ayarları
+ESP32_TIMEOUT=10
+ESP32_RETRY_COUNT=3 
